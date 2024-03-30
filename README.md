@@ -1,10 +1,10 @@
-#ABOUT ME
+## ABOUT ME
 Hello there! 👋 I'm Nishtha Aggarwal, a passionate and versatile software developer with expertise in HTML, CSS, JavaScript, Java, and React. I have a strong foundation in web development, front-end design, and backend programming, with a focus on creating intuitive and user-friendly applications.
 
 I am currently pursuing BTech CSE from Manav Rachna University, where I gained a solid understanding of software development principles, algorithms, data structures, and software engineering best practices.
 
 
-#SKILLS
+## SKILLS
 
 -Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
 -Backend Development: Java, Node.js, Express.js
@@ -18,10 +18,10 @@ I am currently pursuing BTech CSE from Manav Rachna University, where I gained a
 Here are some of the technologies I enjoy working with:
 
 ### Programming Languages
-![C](https://img.icons8.com/?size=48&id=40670&format=png) ![C++](https://img.icons8.com/?size=48&id=40669&format=png) ![Java](https://img.icons8.com/?size=80&id=lTKW3iI3wIT0&format=png) ![Python](https://img.icons8.com/?size=48&id=13441&format=png)
+![C](https://img.icons8.com/?size=48&id=40670&format=png) ![Java](https://img.icons8.com/?size=80&id=lTKW3iI3wIT0&format=png) ![Python](https://img.icons8.com/?size=48&id=13441&format=png)
 
 ### Web Development
-![HTML5](https://img.icons8.com/?size=48&id=20909&format=png) ![CSS3](https://img.icons8.com/?size=48&id=21278&format=png) ![Bootstrap](https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png) ![Tailwind](https://img.icons8.com/?size=80&id=WoopfRcDj3RF&format=png) ![Material UI](https://img.icons8.com/?size=48&id=gFw7X5Tbl3ss&format=png) ![JavaScript](https://img.icons8.com/?size=48&id=108784&format=png)
+![HTML5](https://img.icons8.com/?size=48&id=20909&format=png) ![CSS3](https://img.icons8.com/?size=48&id=21278&format=png) ![Bootstrap](https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png) [Material UI](https://img.icons8.com/?size=48&id=gFw7X5Tbl3ss&format=png) ![JavaScript](https://img.icons8.com/?size=48&id=108784&format=png)
 
 ### Front-End
 ![ReactJS](https://img.icons8.com/?size=80&id=wPohyHO_qO1a&format=png)
