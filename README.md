@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @nishthaaggarwal15
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on projects
+Hello there! 👋 I'm Nishtha Aggarwal, a passionate and versatile software developer with expertise in HTML, CSS, JavaScript, Java, and React. I have a strong foundation in web development, front-end design, and backend programming, with a focus on creating intuitive and user-friendly applications.
+Skills
+Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
+Backend Development: Java, Node.js, Express.js
+Database Management: MySQL, MongoDB
+Version Control: Git, GitHub
+UI/UX Design: Responsive Design, User Interface Prototyping
+Other Tools: Visual Studio Code, IntelliJ IDEA, npm
+
+
 
 
 <!---
