@@ -1,5 +1,9 @@
 Hello there! 👋 I'm Nishtha Aggarwal, a passionate and versatile software developer with expertise in HTML, CSS, JavaScript, Java, and React. I have a strong foundation in web development, front-end design, and backend programming, with a focus on creating intuitive and user-friendly applications.
-Skills
+
+
+
+
+SKILLS
 Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
 Backend Development: Java, Node.js, Express.js
 Database Management: MySQL, MongoDB
