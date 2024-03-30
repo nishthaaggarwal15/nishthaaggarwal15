@@ -5,7 +5,6 @@ Hello there! 👋 I'm Nishtha Aggarwal, a passionate and versatile software deve
 
 SKILLS
 
-
 Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
 Backend Development: Java, Node.js, Express.js
 Database Management: MySQL, MongoDB
