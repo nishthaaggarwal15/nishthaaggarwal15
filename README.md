@@ -6,12 +6,12 @@ I am currently pursuing BTech CSE from Manav Rachna University, where I gained a
 
 ## SKILLS
 
--Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
--Backend Development: Java, Node.js, Express.js
--Database Management: MySQL, MongoDB
--Version Control: Git, GitHub
--UI/UX Design: Responsive Design, User Interface Prototyping
--Other Tools: Visual Studio Code, IntelliJ IDEA, npm
+- Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
+- Backend Development: Java, Node.js, Express.js
+- Database Management: MySQL, MongoDB
+- Version Control: Git, GitHub
+- UI/UX Design: Responsive Design, User Interface Prototyping
+- Other Tools: Visual Studio Code, IntelliJ IDEA, npm
 
 ## Tech Stacks 🚀
 
@@ -21,7 +21,7 @@ Here are some of the technologies I enjoy working with:
 ![C](https://img.icons8.com/?size=48&id=40670&format=png) ![Java](https://img.icons8.com/?size=80&id=lTKW3iI3wIT0&format=png) ![Python](https://img.icons8.com/?size=48&id=13441&format=png)
 
 ### Web Development
-![HTML5](https://img.icons8.com/?size=48&id=20909&format=png) ![CSS3](https://img.icons8.com/?size=48&id=21278&format=png) ![Bootstrap](https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png) [Material UI](https://img.icons8.com/?size=48&id=gFw7X5Tbl3ss&format=png) ![JavaScript](https://img.icons8.com/?size=48&id=108784&format=png)
+![HTML5](https://img.icons8.com/?size=48&id=20909&format=png) ![CSS3](https://img.icons8.com/?size=48&id=21278&format=png) ![Bootstrap](https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png) ! [Material UI](https://img.icons8.com/?size=48&id=gFw7X5Tbl3ss&format=png) ![JavaScript](https://img.icons8.com/?size=48&id=108784&format=png)
 
 ### Front-End
 ![ReactJS](https://img.icons8.com/?size=80&id=wPohyHO_qO1a&format=png)
