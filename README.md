@@ -7,7 +7,7 @@ I am currently pursuing BTech CSE from Manav Rachna University, where I gained a
 ## SKILLS
 
 - Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
-- Backend Development: Java, Node.js
+- Backend Development: Java
 - Database Management: MySQL, MongoDB
 - Version Control: Git, GitHub
 - UI/UX Design: Responsive Design, User Interface Prototyping
@@ -18,7 +18,7 @@ I am currently pursuing BTech CSE from Manav Rachna University, where I gained a
 Here are some of the technologies I enjoy working with:
 
 ### Programming Languages
-![C](https://img.icons8.com/?size=48&id=40670&format=png) ![Java](https://img.icons8.com/?size=80&id=lTKW3iI3wIT0&format=png) ![Python](https://img.icons8.com/?size=48&id=13441&format=png)
+![C](https://img.icons8.com/?size=48&id=40670&format=png) ![Java](https://img.icons8.com/?size=80&id=lTKW3iI3wIT0&format=png)
 
 ### Web Development
 ![HTML5](https://img.icons8.com/?size=48&id=20909&format=png) ![CSS3](https://img.icons8.com/?size=48&id=21278&format=png) ![Bootstrap](https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png)  ![JavaScript](https://img.icons8.com/?size=48&id=108784&format=png)
