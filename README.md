@@ -30,6 +30,16 @@ Here are some of the technologies I enjoy working with:
 ![JAVA](https://www.bing.com/th?id=OIP.Ve4MjU-Tyu_QMjN5DI2Z5wHaFj&w=150&h=112&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2)
 ### Databases
 ![MongoDB](https://img.icons8.com/?size=64&id=o6OvAxG0nzTH&format=png) [MySQL](https://img.icons8.com/?size=80&id=rgPSE6nAB766&format=png)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nishthaaggarwal15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nishthaaggarwal15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishthaaggarwal15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nishthaaggarwal15&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nishthaaggarwal15&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <!---
