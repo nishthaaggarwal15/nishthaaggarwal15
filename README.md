@@ -32,7 +32,11 @@ Here are some of the technologies I enjoy working with:
 ![MongoDB](https://img.icons8.com/?size=64&id=o6OvAxG0nzTH&format=png) [MySQL](https://img.icons8.com/?size=80&id=rgPSE6nAB766&format=png)
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=nishthaaggarwal15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](./profile-3d-contrib/profile-night-green.svg)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishthaaggarwal15&theme=synthwave-84&true&hide_border=true" />
+</div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nishthaaggarwal15&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishthaaggarwal15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
