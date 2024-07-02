@@ -9,6 +9,7 @@
 Hello there! 👋 I'm Nishtha Aggarwal, a passionate and versatile software developer with expertise in HTML, CSS, JavaScript, Java, and React. I have a strong foundation in web development, front-end design, and backend programming, with a focus on creating intuitive and user-friendly applications.
 
 I am currently pursuing BTech CSE from Manav Rachna University, where I gained a solid understanding of software development principles, algorithms, data structures, and software engineering best practices.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 
 ## SKILLS
@@ -19,6 +20,7 @@ I am currently pursuing BTech CSE from Manav Rachna University, where I gained a
 - Version Control: Git, GitHub
 - UI/UX Design: Responsive Design, User Interface Prototyping
 - Other Tools: Visual Studio Code, IntelliJ IDEA, npm
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 ## Tech Stacks 🚀
 
@@ -37,6 +39,7 @@ Here are some of the technologies I enjoy working with:
 ![JAVA](https://www.bing.com/th?id=OIP.Ve4MjU-Tyu_QMjN5DI2Z5wHaFj&w=150&h=112&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2)
 ### Databases
 ![MongoDB](https://img.icons8.com/?size=64&id=o6OvAxG0nzTH&format=png) [MySQL](https://img.icons8.com/?size=80&id=rgPSE6nAB766&format=png)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=nishthaaggarwal15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <div align="center">
@@ -46,6 +49,7 @@ Here are some of the technologies I enjoy working with:
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nishthaaggarwal15&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishthaaggarwal15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nishthaaggarwal15&theme=radical&no-frame=true&no-bg=false&margin-w=4)
