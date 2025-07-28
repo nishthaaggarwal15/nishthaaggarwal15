@@ -13,7 +13,7 @@ I am currently pursuing BTech CSE from Manav Rachna University, where I gained a
 
 
 ## SKILLS
-
+- Programming Languages - C++, Java
 - Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
 - Backend Development: Java
 - Database Management: MySQL, MongoDB
